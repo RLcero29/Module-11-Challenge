@@ -1,0 +1,1 @@
+Attached are the 2 Jupyter notebooks for the challenge. The first one is the webscraping of the Mars website and the second notebook is the analysis of the Mars website. I have included the answers to the questions at the end of this notebook in this notebook.
